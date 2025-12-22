@@ -26,6 +26,10 @@
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "ProceduralVegetationEditor",
+			"Enabled": true
 		}
 	]
 }
